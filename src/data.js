@@ -36,7 +36,7 @@ export const WorkExperience = [
             ],
         ],
 
-        duration: "FEB-MAR 2023",
+        duration: "2023",
     },
 ];
 
@@ -81,7 +81,7 @@ export const Projectsdata = [
         deployedLink: "https://main--bejewelled-dango-b9fe8e.netlify.app/",
 
         sourceCodeLogo: code,
-        duration: "FEB-MAR 2023",
+        duration: "2023",
     },
     {
         name: "Ecommerce Backend",
@@ -111,7 +111,30 @@ export const Projectsdata = [
         sourceCode:
             "https://github.com/Lycanwave/Ecommerce-backend/tree/main/ECOMMERCE",
         sourceCodeLogo: code,
-        duration: "FEB-MAR 2023",
+        duration: "2023",
+    },
+    {
+        name: "News Web App",
+        frameWork: ["React.js", "Rest Api"],
+        description: [
+            [
+                ["Designed and developed a clean and modern website using"],
+                ["#HTML"],
+                ["#CSS"],
+                ["and"],
+                ["#JavaScript."],
+            ],
+            [["Worked with Rest Api to fetch the data from newsapi.org."]],
+            [
+                [
+                    "Utilized responsive design to ensure compatibility across all devices.",
+                ],
+            ],
+            [["Splitted the News item Category wise using React Router."]],
+        ],
+        sourceCode: "https://github.com/Lycanwave/NewsApp",
+        sourceCodeLogo: code,
+        duration: "2023",
     },
     {
         name: "To-Do App",
@@ -136,31 +159,9 @@ export const Projectsdata = [
         ],
         sourceCode: "https://github.com/Lycanwave/To-Do-App",
         sourceCodeLogo: code,
-        duration: "FEB-MAR 2023",
+        duration: "2022",
     },
-    {
-        name: "News Web App",
-        frameWork: ["React.js", "Rest Api"],
-        description: [
-            [
-                ["Designed and developed a clean and modern website using"],
-                ["#HTML"],
-                ["#CSS"],
-                ["and"],
-                ["#JavaScript."],
-            ],
-            [["Worked with Rest Api to fetch the data from newsapi.org."]],
-            [
-                [
-                    "Utilized responsive design to ensure compatibility across all devices.",
-                ],
-            ],
-            [["Splitted the News item Category wise using React Router."]],
-        ],
-        sourceCode: "https://github.com/Lycanwave/NewsApp",
-        sourceCodeLogo: code,
-        duration: "FEB-MAR 2023",
-    },
+
     {
         name: "Covid Alert",
         frameWork: ["Flutter", "RestApi", "Git"],
@@ -197,7 +198,7 @@ export const Projectsdata = [
         ],
         sourceCode: "https://github.com/Lycanwave/covid_alert",
         sourceCodeLogo: code,
-        duration: "FEB-MAR 2023",
+        duration: "2022",
     },
 ];
 
