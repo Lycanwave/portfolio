@@ -36,7 +36,7 @@ export const WorkExperience = [
             ],
         ],
 
-        duration: "2023",
+        duration: "FEB-MAR 2023",
     },
 ];
 
@@ -60,28 +60,13 @@ export const Projectsdata = [
                     "form handling and validation within the typing testing application.",
                 ],
             ],
-            // [
-            //     ["Implemented"],
-            //     ["#RESTful APIs"],
-            //     [
-            //         "for handling product catalog, user management, shopping cart, and order processing.",
-            //     ],
-            // ],
-            // [
-            //     [" Implemented user"],
-            //     ["#authentication"],
-            //     ["and"],
-            //     ["#authorization"],
-            //     ["using"],
-            //     ["#JWT."],
-            // ],
         ],
         sourceCode: "https://github.com/Lycanwave/Typing-Speed-Check",
 
         deployedLink: "https://main--bejewelled-dango-b9fe8e.netlify.app/",
 
         sourceCodeLogo: code,
-        duration: "2023",
+        duration: "MAY-JUN 2023",
     },
     {
         name: "Ecommerce Backend",
@@ -111,7 +96,7 @@ export const Projectsdata = [
         sourceCode:
             "https://github.com/Lycanwave/Ecommerce-backend/tree/main/ECOMMERCE",
         sourceCodeLogo: code,
-        duration: "2023",
+        duration: "MAY-JUN 2023",
     },
     {
         name: "News Web App",
@@ -134,7 +119,7 @@ export const Projectsdata = [
         ],
         sourceCode: "https://github.com/Lycanwave/NewsApp",
         sourceCodeLogo: code,
-        duration: "2023",
+        duration: "FEB-MAR 2023",
     },
     {
         name: "To-Do App",
@@ -159,7 +144,7 @@ export const Projectsdata = [
         ],
         sourceCode: "https://github.com/Lycanwave/To-Do-App",
         sourceCodeLogo: code,
-        duration: "2022",
+        duration: "SEP-OCT 2022",
     },
 
     {
@@ -198,7 +183,7 @@ export const Projectsdata = [
         ],
         sourceCode: "https://github.com/Lycanwave/covid_alert",
         sourceCodeLogo: code,
-        duration: "2022",
+        duration: "SEP-OCT 2022",
     },
 ];
 
